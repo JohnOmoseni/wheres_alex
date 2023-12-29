@@ -1,9 +1,9 @@
-# The private key and address of the challenger - Alice.
+# The private key and address of the challenger - Johnny.
 # Swap these in when running transactions as the challenger.
 # "private_key": "APrivateKey1zkp9p8bttYsy3EuwiGrb4PXmrtjzZkpGvBCGVCgvpcwVjUV",
 # "address": "aleo16hf8hfpwasnn9cf7k2c0dllc56nn7qt547qxgvgwu6pznw4trvqsx68kls"
 
-# The private key and address of the opponent - Bob.
+# The private key and address of the opponent - Daniel.
 # Swap these in when running transactions as the opponent.
 # "private_key": "APrivateKey1zkpALDDK4zAigs387emvnuxWXvGjFw2AmmYcQH7TBt8nhof"
 # "address": "aleo1r4pc6ufjvw050jhzrew3vqm2lvacdxfd4a5ckulau0vjc72qvc8sr0jg2a"
